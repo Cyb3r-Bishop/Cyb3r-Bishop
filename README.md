@@ -51,5 +51,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Cyb3r-Bishop&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
-### Snake
-![snake gif](https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/output/github-contribution-grid-snake.gif)
