@@ -51,9 +51,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Cyb3r-Bishop&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 🐍 Contribution snake
-<!--![snake animation](https://github.com/Cyb3r-Bishop/blob/output/github-contribution-grid-snake2.svg)-->
+<!--![snake animation](https://github.com/jayed87/jayed87/blob/output/github-contribution-grid-snake2.svg)-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/output/github-contribution-grid-snake2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/output/github-contribution-grid-snake2.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/output/github-contribution-grid-snake2.svg">
-</picture>
+![snake animation](https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/output/github-contribution-grid-snake.svg)  
+
