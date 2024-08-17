@@ -2,7 +2,8 @@
 <div align="center"><img src="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/main/Grey%20Minimalist%20Linkedin%20Banner.png"><div>
 <h3 align="center">A passionate Mobile App developer from Bangladesh. I'm a student at RUET and in my free time i like to develop my own game. </h3>
 
-
+<img align="right" alt="Coding" width="400" src="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/main/gif3.gif">
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyb3r-bishop&label=Profile%20views&color=0e75b6&style=flat" alt="cyb3r-bishop" /> </p>
 
 - 🔭 I’m currently working on **Cyber Opulence**
@@ -18,6 +19,8 @@
 - 📫 How to reach me **ariffoysalruetcse21@gmail.com**
 
 - ⚡ Fun fact **I like to learn new things**
+
+<div align="center"><img src="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
