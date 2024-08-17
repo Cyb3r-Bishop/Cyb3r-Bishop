@@ -1,6 +1,7 @@
 <h1 align="center">Konnichiwa, I'm Arif Foysal</h1>
 <div align="center"><img src="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/main/Grey%20Minimalist%20Linkedin%20Banner.png"><div>
-<h3 align="center">A passionate Android App developer from Bangladesh</h3>
+<h3 align="center">A passionate Mobile App developer from Bangladesh. I'm a student at RUET and in my free time i like to develop my own game. </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyb3r-bishop&label=Profile%20views&color=0e75b6&style=flat" alt="cyb3r-bishop" /> </p>
 
