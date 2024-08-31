@@ -6,6 +6,8 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyb3r-bishop&label=Profile%20views&color=0e75b6&style=flat" alt="cyb3r-bishop" /> </p>
 
+<div align="left">
+
 - 🔭 I’m currently working on **Cyber Opulence**
 
 - 🌱 I’m currently learning **Cryptography & Flutter framework, dart**
@@ -19,6 +21,9 @@
 - 📫 How to reach me **ariffoysalruetcse21@gmail.com**
 
 - ⚡ Fun fact **I like to learn new things**
+
+</div>
+
 
 <div align="left"><img src="https://github.com/Cyb3r-Bishop/Cyb3r-Bishop/blob/main/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"><div>
 
